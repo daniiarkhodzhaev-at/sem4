@@ -1,3 +1,6 @@
 [submodule "sem4_lab1"]
 	path = sem4_lab1
 	url = https://github.com/daniiarkhodzhaev-at/sem4_lab1
+[submodule "miniscience-4th-term"]
+	path = miniscience-4th-term
+	url = https://github.com/avasyukov/miniscience-4th-term.git
