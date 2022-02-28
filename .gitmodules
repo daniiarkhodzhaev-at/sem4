@@ -7,3 +7,6 @@
 [submodule "sem4_lab2"]
 	path = sem4_lab2
 	url = git@github.com:daniiarkhodzhaev-at/sem4_lab2.git
+[submodule "sem4_lab3"]
+	path = sem4_lab3
+	url = git@github.com:daniiarkhodzhaev-at/sem4_lab3.git
